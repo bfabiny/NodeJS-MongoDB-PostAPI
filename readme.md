@@ -12,9 +12,3 @@ These endpoints are supported:
 4. `POST /posts`  - creates a new Posts and saves it in the MongoDB.
 5. `DELETE /posts/{PostID}`  -  deletes the post record with the specific PostID.
 5. `PATCH /posts/{PostID}`  -  updates the title of the post record with the specific PostID.
-
-
-MongoDB Details:
-
-User: dbAdmin 
-Password dbAdminPassword
